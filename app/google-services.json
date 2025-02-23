@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "771945469726",
+    "project_id": "iitm-olx",
+    "storage_bucket": "iitm-olx.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771945469726:android:2cd6540ce49ec358755b0f",
+        "android_client_info": {
+          "package_name": "com.krackhack.olxiitmandi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy2n0v-89twR2lSmd6qzHLg4yrZ8bhz00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

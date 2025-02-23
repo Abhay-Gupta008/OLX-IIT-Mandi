@@ -1,0 +1,113 @@
+[versions]
+agp = "8.8.1"
+androidxRoomCompiler = "2.5.0"
+androidxRoomRuntime = "2.5.0"
+cardview = "1.0.0"
+checkout = "1.6.41"
+circleimageview = "3.1.0"
+circleindicator = "2.1.6"
+cloudinaryAndroid = "2.0.0"
+cloudinaryAndroidVersion = "2.8.0"
+cloudinaryHttp44 = "1.33.0"
+compiler = "4.12.0"
+core = "1.15.0"
+firebaseAnalytics = "22.2.0"
+firebaseAppcheckPlayintegrity = "18.0.0"
+firebaseAuth = "23.2.0"
+firebaseBom = "33.9.0"
+firebaseFirestore = "25.1.2"
+firebaseFirestoreVersion = "24.4.1"
+firebaseMessaging = "24.1.0"
+firebaseMessagingVersion = "23.1.1"
+firebaseStorage = "21.0.1"
+firebaseStorageVersion = "20.2.0"
+glide = "4.16.0"
+glideVersion = "4.12.0"
+imagepicker = "2.1"
+junit = "4.13.2"
+junitVersion = "1.2.1"
+espressoCore = "3.6.1"
+appcompat = "1.7.0"
+lifecycleLivedataKtx = "2.8.7"
+lifecycleLivedataKtxVersion = "2.6.0"
+lifecycleViewmodelKtx = "2.6.0"
+material = "1.12.0"
+activity = "1.10.0"
+constraintlayout = "2.2.0"
+materialsearchbar = "0.8.5"
+materialVersion = "1.5.0"
+navigationUiKtx = "2.8.7"
+okhttp = "4.9.0"
+okhttpVersion = "4.9.3"
+permissions = "4.0.0"
+photoview = "2.3.0"
+picasso = "2.71828"
+picassoVersion = "2.8"
+retrofit = "2.9.0"
+roomCompiler = "2.5.2"
+roomKtxVersion = "2.5.0"
+roomRuntime = "2.5.2"
+roomRuntimeVersion = "2.6.1"
+viewpager2 = "1.1.0"
+whynotimagecarousel = "2.1.0"
+
+[libraries]
+androidx-cardview = { module = "androidx.cardview:cardview", version.ref = "cardview" }
+androidx-core = { module = "androidx.core:core", version.ref = "core" }
+androidx-lifecycle-livedata-ktx = { module = "androidx.lifecycle:lifecycle-livedata-ktx", version.ref = "lifecycleLivedataKtx" }
+androidx-lifecycle-livedata-ktx-v260 = { module = "androidx.lifecycle:lifecycle-livedata-ktx", version.ref = "lifecycleLivedataKtxVersion" }
+androidx-lifecycle-viewmodel-ktx = { module = "androidx.lifecycle:lifecycle-viewmodel-ktx", version.ref = "lifecycleLivedataKtx" }
+androidx-lifecycle-viewmodel-ktx-v260 = { module = "androidx.lifecycle:lifecycle-viewmodel-ktx", version.ref = "lifecycleViewmodelKtx" }
+androidx-navigation-fragment-ktx = { module = "androidx.navigation:navigation-fragment-ktx", version.ref = "navigationUiKtx" }
+androidx-navigation-ui-ktx = { module = "androidx.navigation:navigation-ui-ktx", version.ref = "navigationUiKtx" }
+androidx-room-compiler = { module = "androidx.room:room-compiler", version.ref = "roomRuntimeVersion" }
+androidx-room-compiler-v252 = { module = "androidx.room:room-compiler", version.ref = "roomCompiler" }
+androidx-room-ktx = { module = "androidx.room:room-ktx", version.ref = "roomCompiler" }
+androidx-room-ktx-v250 = { module = "androidx.room:room-ktx", version.ref = "roomKtxVersion" }
+androidx-room-runtime = { module = "androidx.room:room-runtime", version.ref = "roomRuntimeVersion" }
+androidx-room-runtime-v250 = { module = "androidx.room:room-runtime", version.ref = "androidxRoomRuntime" }
+androidx-room-runtime-v252 = { module = "androidx.room:room-runtime", version.ref = "roomRuntime" }
+checkout = { module = "com.razorpay:checkout", version.ref = "checkout" }
+circleimageview = { module = "de.hdodenhof:circleimageview", version.ref = "circleimageview" }
+circleindicator = { module = "me.relex:circleindicator", version.ref = "circleindicator" }
+cloudinary-android = { module = "com.cloudinary.android:cloudinary-android", version.ref = "cloudinaryAndroid" }
+cloudinary-cloudinary-android = { module = "com.cloudinary:cloudinary-android", version.ref = "cloudinaryAndroidVersion" }
+cloudinary-http44 = { module = "com.cloudinary:cloudinary-http44", version.ref = "cloudinaryHttp44" }
+compiler = { module = "com.github.bumptech.glide:compiler", version.ref = "compiler" }
+converter-gson = { module = "com.squareup.retrofit2:converter-gson", version.ref = "retrofit" }
+firebase-analytics = { module = "com.google.firebase:firebase-analytics", version.ref = "firebaseAnalytics" }
+firebase-appcheck-playintegrity = { module = "com.google.firebase:firebase-appcheck-playintegrity", version.ref = "firebaseAppcheckPlayintegrity" }
+firebase-auth = { module = "com.google.firebase:firebase-auth", version.ref = "firebaseAuth" }
+firebase-bom = { module = "com.google.firebase:firebase-bom", version.ref = "firebaseBom" }
+firebase-firestore = { module = "com.google.firebase:firebase-firestore", version.ref = "firebaseFirestore" }
+firebase-firestore-v2441 = { module = "com.google.firebase:firebase-firestore", version.ref = "firebaseFirestoreVersion" }
+firebase-messaging = { module = "com.google.firebase:firebase-messaging", version.ref = "firebaseMessaging" }
+firebase-messaging-v2311 = { module = "com.google.firebase:firebase-messaging", version.ref = "firebaseMessagingVersion" }
+firebase-storage = { module = "com.google.firebase:firebase-storage", version.ref = "firebaseStorage" }
+firebase-storage-v2020 = { module = "com.google.firebase:firebase-storage", version.ref = "firebaseStorageVersion" }
+glide = { module = "com.github.bumptech.glide:glide", version.ref = "glide" }
+glide-v4120 = { module = "com.github.bumptech.glide:glide", version.ref = "glideVersion" }
+imagepicker = { module = "com.github.dhaval2404:imagepicker", version.ref = "imagepicker" }
+junit = { group = "junit", name = "junit", version.ref = "junit" }
+ext-junit = { group = "androidx.test.ext", name = "junit", version.ref = "junitVersion" }
+espresso-core = { group = "androidx.test.espresso", name = "espresso-core", version.ref = "espressoCore" }
+appcompat = { group = "androidx.appcompat", name = "appcompat", version.ref = "appcompat" }
+material = { group = "com.google.android.material", name = "material", version.ref = "material" }
+activity = { group = "androidx.activity", name = "activity", version.ref = "activity" }
+constraintlayout = { group = "androidx.constraintlayout", name = "constraintlayout", version.ref = "constraintlayout" }
+material-v150 = { module = "com.google.android.material:material", version.ref = "materialVersion" }
+materialsearchbar = { module = "com.github.mancj:MaterialSearchBar", version.ref = "materialsearchbar" }
+okhttp = { module = "com.squareup.okhttp3:okhttp", version.ref = "okhttp" }
+okhttp-v493 = { module = "com.squareup.okhttp3:okhttp", version.ref = "okhttpVersion" }
+permissions = { module = "com.nabinbhandari.android:permissions", version.ref = "permissions" }
+photoview = { module = "com.github.chrisbanes:PhotoView", version.ref = "photoview" }
+picasso = { module = "com.squareup.picasso:picasso", version.ref = "picasso" }
+picasso-v28 = { module = "com.squareup.picasso:picasso", version.ref = "picassoVersion" }
+retrofit = { module = "com.squareup.retrofit2:retrofit", version.ref = "retrofit" }
+room-compiler-v250 = { module = "androidx.room:room-compiler", version.ref = "androidxRoomCompiler" }
+viewpager2 = { module = "androidx.viewpager2:viewpager2", version.ref = "viewpager2" }
+whynotimagecarousel = { module = "org.imaginativeworld.whynotimagecarousel:whynotimagecarousel", version.ref = "whynotimagecarousel" }
+
+[plugins]
+android-application = { id = "com.android.application", version.ref = "agp" }
+

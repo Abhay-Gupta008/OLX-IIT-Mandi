@@ -1,0 +1,14 @@
+<resources>
+    <string-array name="category_list">
+        <item>Select Category</item>
+        <item>Electronics</item>
+        <item>Fashion</item>
+        <item>Home Appliances</item>
+        <item>Books</item>
+        <item>Furniture</item>
+        <item>Toys</item>
+        <item>Sports</item>
+    </string-array>
+    <string name="app_name">OLX IIT Mandi</string>
+
+</resources>
