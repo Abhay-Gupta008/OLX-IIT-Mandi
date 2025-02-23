@@ -29,6 +29,7 @@ Campus Marketplace is a mobile application designed to provide students, faculty
 ### Download Code & Assets
 You can download the latest source code and required assets from the following link:  
 [Download Here](https://drive.google.com/file/d/1GBkGaF55xOVcOrTmKImuLaAiT3ejj7bS/view?usp=drive_link)
+[Download apk file Here](https://drive.google.com/file/d/1y3xG83-t9nnf96CwiULE2uG4LYpDSbOw/view?usp=drive_link)
 
 ### Prerequisites
 - **Android Studio** installed
